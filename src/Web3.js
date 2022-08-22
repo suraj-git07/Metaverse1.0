@@ -8,7 +8,7 @@ const reinkeby = new Promise((res, rej) => {
     let web3 = new Web3(window.ethereum);
     let contract = new web3.eth.Contract(
       abi,
-      "0x08e9cadc107893c306dfa3fc77525cafb1116935"
+      "0xc9f66495367b0895b1fc366fe5d229159788d570"
     );
 
     let accounts = await web3.eth.requestAccounts();
