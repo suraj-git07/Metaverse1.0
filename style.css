@@ -1,0 +1,15 @@
+form{
+    /* background-color:whitesmoke; */
+    position: fixed;
+    margin-right: 120px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 0px;
+    color:whitesmoke ;
+}
+
+#mint{
+    background-color:#5061c2;
+    color: white;
+    padding: 2px;
+}
